@@ -1,9 +1,9 @@
 <?xml version="1.0"?> 
-<substratum>9999
+<substratum>
 <wallpaper id="Carbon"> 
-<link>https://image.ibb.co/dn3XDw/15_12.jpg
+<link>https://raw.githubusercontent.com/westcripp/android_packages_apps_RRWallpapers/nougat/res/mipmap-xxxhdpi/4093%20(1)_small.jpg
 </link> 
-<preview>https://image.ibb.co/dn3XDw/15_12.jpg
+<preview>https://raw.githubusercontent.com/westcripp/android_packages_apps_RRWallpapers/nougat/res/mipmap-xxxhdpi/4093%20(1)_small.jpg
 </preview> 
 </wallpaper>
  
@@ -252,6 +252,7 @@
 <preview>https://image.ibb.co/djJRtv/4097_1.jpg</preview> 
 </wallpaper> 
   
+</substratum>
   
   
 

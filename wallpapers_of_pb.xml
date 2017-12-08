@@ -1,30 +1,36 @@
 <?xml version="1.0"?> 
 <substratum>
-<wallpaper id="Carbon by unknown"> 
+<wallpaper id="Carbonn"> 
+<link>https://i.imgsafe.org/af/af000d1630.jpeg
+</link> 
+<preview>https://i.imgsafe.org/af/af000d1630.jpeg</preview> 
+</wallpaper>
+ 
+<wallpaper id="Space3"> 
 <link>https://i.imgsafe.org/9c/9cb5b76474.jpeg
 </link> 
 <preview>https://i.imgsafe.org/9c/9cb5b76474.jpeg</preview> 
 </wallpaper>
  
-<wallpaper id="Sand by unknown"> 
+<wallpaper id="Sand"> 
 <link>https://i.imgsafe.org/9c/9caa2c1c88.jpeg
 </link> 
 <preview>https://i.imgsafe.org/9c/9caa2c1c88.jpeg</preview> 
 </wallpaper>
 
-<wallpaper id="Dark Camo by unknown"> 
+<wallpaper id="Dark Camo"> 
 <link>https://i.imgsafe.org/9c/9ca009db9f.jpeg
 </link> 
 <preview>https://i.imgsafe.org/9c/9ca009db9f.jpeg</preview> 
 </wallpaper>
 
-<wallpaper id="Space2 by unknown"> 
+<wallpaper id="Space2"> 
 <link>https://i.imgsafe.org/9d/9dcc2ecdcc.jpeg
 </link> 
 <preview>https://i.imgsafe.org/9d/9dcc2ecdcc.jpeg</preview> 
 </wallpaper>
  
-<wallpaper id="Black Sea by unknown"> 
+<wallpaper id="Black Sea"> 
 <link>https://i.imgsafe.org/92/92b7a22a5a.jpeg
 </link> 
 <preview>https://i.imgsafe.org/92/92b7a22a5a.jpeg</preview> 
@@ -126,7 +132,7 @@
 <preview>https://i.imgsafe.org/9c/9ca2b8a7b4.jpeg</preview> 
 </wallpaper>
  
-<wallpaper id="Space by unknown"> 
+<wallpaper id="Space"> 
 <link>https://i.imgsafe.org/9c/9ca2c460ce.jpeg
 </link> 
 <preview>https://i.imgsafe.org/9c/9ca2c460ce.jpeg</preview> 
